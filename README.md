@@ -1,2 +1,2 @@
 # express-mongodb-auth
-![user screenshot](assets/your-image.jpg)
+![user screenshot](assets/Screenshot (3).png)
